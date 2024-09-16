@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "name": "Sản phẩm 1",
+        "price": 100000,
+        "image": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.phucanh.vn%2Flaptop-moi-cua-lenovo-cho-nguoi-dung-lua-chon-giua-2-kieu-man-hinh-dep-hon-hay-lon-hon.html&psig=AOvVaw3M4H2h9aP4zxcbqfyh6_CP&ust=1726191781669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjw7NGjvIgDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 2,
+        "name": "Sản phẩm 2",
+        "price": 400000,
+        "image": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLenovo-IdeaPad-39-62cm-Warranty-82RK007JIN%2Fdp%2FB0B7RXJWB4&psig=AOvVaw3M4H2h9aP4zxcbqfyh6_CP&ust=1726191781669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjw7NGjvIgDFQAAAAAdAAAAABAI"
+    },
+    {
+        "id": 3,
+        "name": "Sản phẩm 3",
+        "price": 300000,
+        "image": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Flenovo-ideapad-slim-5-16irl8-16-laptop-intel-core-i5-1335u-16gb-512gb-ssd-w11h-manufacturer-refurbished%2F-%2FA-91294564&psig=AOvVaw3M4H2h9aP4zxcbqfyh6_CP&ust=1726191781669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjw7NGjvIgDFQAAAAAdAAAAABAQ"
+    }
+]
